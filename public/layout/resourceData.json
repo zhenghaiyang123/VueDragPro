@@ -1,0 +1,96 @@
+[{
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 2,
+        "i": 0,
+        "Component": "barChart",
+        "IsResource": true,
+        "initW": 2,
+        "initH": 2,
+        "type": "barChart"
+    },
+    {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 2,
+        "i": 2,
+        "Component": "lineChart",
+        "IsResource": true,
+        "initW": 2,
+        "initH": 2,
+        "type": "lineChart",
+        "titleText": "",
+        "xArray": "",
+        "seriesData": ""
+    },
+    {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 2,
+        "i": 3,
+        "Component": "parChart",
+        "IsResource": true,
+        "initW": 2,
+        "initH": 2,
+        "type": "parChart"
+    },
+    {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 2,
+        "i": 4,
+        "Component": "mapChart",
+        "IsResource": true,
+        "initW": 2,
+        "initH": 2,
+        "type": "mapChart"
+    },
+    {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 2,
+        "i": 5,
+        "Component": "borderChart",
+        "IsResource": true,
+        "initW": 2,
+        "initH": 2,
+        "type": "parChart"
+    },
+
+    {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 1,
+        "i": 16,
+        "Component": "electric",
+        "IsResource": true,
+        "initW": 3,
+        "initH": 1,
+        "type": "numPanel",
+        "iconName": "",
+        "textContent": "",
+        "dataName": ""
+    },
+    {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 1,
+        "i": 17,
+        "Component": "cdf",
+        "IsResource": true,
+        "initW": 3,
+        "initH": 1,
+        "type": "numPanel",
+        "iconName": "",
+        "textContent": "",
+        "dataName": ""
+    }
+
+]
